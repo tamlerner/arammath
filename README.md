@@ -1,7 +1,6 @@
 # Tamara Lerner | Tech & Finance 
 
-## 💻 Where Technology Drives Financial Operations
-I'm **Tamara Lerner**, a technology-focused operations professional building solutions both in TradFi and DeFi.
+I'm Tam, a technology-focused operations professional building solutions both in TradFi and DeFi.
 
 ## ⚙️ Technical Proficiencies
 <div>
