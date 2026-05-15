@@ -11,11 +11,6 @@ I'm **Tamara Lerner**, a technology-focused operations professional building sol
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
-## 🏢 Professional Engineering Experience
-- **COO @ CYTO SAS**: Architecting secure financial systems and leading cross-functional development teams - full frontend development and back. 
-- **Director of Operations @ Veris Labs OÜ**: Implementing enterprise-grade technical solutions for global financial operations, HR and accounting. 
-- **Financial Ops Analyst @ Google LLC**: Developing SQL-based accounting systems and optimizing financial reporting workflows.
-
 ## 🛠️ Technical Solutions Portfolio
 - Custom API integrations for cross-border financial transactions
 - React-based dashboards for treasury management visualization
